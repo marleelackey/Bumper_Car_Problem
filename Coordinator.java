@@ -3,7 +3,7 @@ import java.util.*;
 import java.util.Scanner;
 
 public class Coordinator {
-	static int [] ridersInLine; /* */
+	static int [] ridersInLine; 
 	static Thread [] allThreads;
 	static Rider [] lineOfRiders;
 	static int [] lineOfCars;
